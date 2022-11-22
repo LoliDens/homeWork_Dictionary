@@ -31,6 +31,7 @@ namespace homeWork_Dictionary
                 {
                     Console.WriteLine($"{word.Key} - {word.Value}");
                     isWordHave = true;
+                    break;
                 }
             }
 
